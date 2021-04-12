@@ -4,3 +4,4 @@ program for clearing bitonal scan image
 Имя файла изображения нужно передавать как аргумент командной строки.
 Для работы необходима библиотека opencv-python
 
+![Example](https://github.com/U235a/clear_scan3/blob/main/sample.png "Example image")
